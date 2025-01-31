@@ -24,7 +24,7 @@ I am a technologist from Australia living in New York :statue_of_liberty: .
     ![HTML5](http://img.shields.io/badge/-HTML5-eee?style=flat-square&logo=html5&logoColor=E34F26)
     ![React](https://img.shields.io/badge/-React-eee?style=flat-square&logo=react&logoColor=0088cc)
 - Backend : <br />
-    ![Neo4j](https://img.shields.io/badge/-Neo4j-eee?style=flat-square&logo=neo4j&logoColor=#0096FF)
+    ![Neo4j](https://img.shields.io/badge/-Neo4j-eee?style=flat-square&logo=neo4j&logoColor=#4581C3)
     ![MySQL](http://img.shields.io/badge/-MySQL-eee?style=flat-square&logo=mysql&logoColor=4479A1)
     ![NodeJS](http://img.shields.io/badge/-NodeJS-eee?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAgVBMVEUzmTMzkTM0mDQslSwtlS00mzQAAAA7nTsymDIzmDMwmDAymTIzmDMzmTMzmDMzmDMzlzM0mTQzmTMzmTMzmTMzmTMzmTM0mjQ1nDUxlzEymDIzmTMzmTMzmTMzmTMzmTMwlzAzmTMzmTMzmTMzmTMzmTMzmTM0mTQzmTMzmTP///8ybrFJAAAAKXRSTlMAAAAAAAAAAAAAAA9RxlIRBjSR6/7vmzkIAyd21Nt8JwMauPwrKvlQxcV6L9IAAABUSURBVAjXY2RgZGTkYGQEUl8ZwUx2EAUSZfz0jVESSPEygMAXkIgiIyMbAwT8+v+fUeU/jAfkMzKqMjLDuX//k8ZFMwrNIjRnoDkS7AUZxqcQLwAA4+0cex8ENfMAAAAASUVORK5CYII=)
 - Machine Learning : <br />
@@ -34,8 +34,8 @@ I am a technologist from Australia living in New York :statue_of_liberty: .
 - IDE and other Tools : <br />
     ![Git](http://img.shields.io/badge/-Git-eee?style=flat-square&logo=git&logoColor=F05032)
     ![Postman](http://img.shields.io/badge/-Postman-eee?style=flat-square&logo=postman&logoColor=FF6C37)
-    ![VS Code](http://img.shields.io/badge/-VS%20Code-eee?style=flat-square&logo=visual-studio-code&logoColor=#0096FF)
-    ![Jira](http://img.shields.io/badge/-Jira-eee?style=flat-square&logo=jira&logoColor=#0096FF)
+    ![VS Code](http://img.shields.io/badge/-Visual%20Studio%20Code-eee?style=flat-square&logo=visual-studio-code&logoColor=0096FF)
+    ![Jira](http://img.shields.io/badge/-Jira-eee?style=flat-square&logo=jira&logoColor=0096FF)
 
 ---
 
